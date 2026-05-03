@@ -8,4 +8,20 @@ Untracked files:
 	[31mlog.txt[m
 
 nothing added to commit but untracked files present (use "git add" to track)
-[1m[7m%[27m[1m[0m                                                                                                     [0m[27m[24m[Jaitassou@Aits-MacBook-Pro projet-git % [K[?2004hggit add 
+[1m[7m%[27m[1m[0m                                                                                                     [0m[27m[24m[Jaitassou@Aits-MacBook-Pro projet-git % [K[?2004hggit add log.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                     [0m[27m[24m[Jaitassou@Aits-MacBook-Pro projet-git % [K[?2004hggit commit -m "j'essaie d 'écrire mes commande sur log.txt"[?2004l
+[main c066282] j'essaie d'écrire mes commande sur log.txt
+ 1 file changed, 11 insertions(+)
+ create mode 100644 log.txt
+[1m[7m%[27m[1m[0m                                                                                                     [0m[27m[24m[Jaitassou@Aits-MacBook-Pro projet-git % [K[?2004hggit push     g  git commit -m "j'essaie d'écrire mes commande sur log.txt"[54Dadd log.txt                                           [43D[11Dstatus     [10Drm /.git  .git ls -a  git initdiffstatuslog -pstatuscommit -m "Premier commit"[26Dstatus                    [20Dadd README.md[13Dstatus       commit -m "Premier commit"[26Dstatus                    [20Dlog -pstatusdiff  init[8Dls -a   rm .git/.git[8Dgit statusadd log.txt[11Dcommit -m "j'essaie d'écrire mes commande sur log.txt"[58D                                                          [58Dggit push[?2004l
+Enumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 597 bytes | 597.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/ait-assou/projet-git.git
+   6e751be..c066282  main -> main
+[1m[7m%[27m[1m[0m                                                                                                     [0m[27m[24m[Jaitassou@Aits-MacBook-Pro projet-git % [K[?2004heexit[?2004l
+
+Script done on Sun May  3 00:08:55 2026
